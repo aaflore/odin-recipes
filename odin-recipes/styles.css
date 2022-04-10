@@ -1,0 +1,35 @@
+/* text for main headings */
+.text {
+    color: blue;
+    font-size: 40px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+}
+
+/* homepage image */
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 500px;
+    height: 500px;
+  }
+
+  /* website background color */
+.body {
+    background-color: rgb(193, 229, 119);
+}
+
+/* homepage recipe images */
+.homepageimage {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 100px;
+    height: 100px;
+  }
+
+/* additional customization to recipe options on homepage */
+.text2 li {
+display:inline
+}
